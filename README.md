@@ -2,6 +2,7 @@
 
 A list of awesome resources to make a developer's life easier.
 
+Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the resources listed here in action.
 ### List of Resources
 
 - [Design Inspiration](#design-inspiration)
