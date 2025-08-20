@@ -27,16 +27,18 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 
 > Components with open-source code.
 
-| Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                      |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [Built At Light](https://www.builtatlightspeed.com/)                | A marketplace with links to free websites, components, and UI kits with convenient filtering (includes both paid and free templates). |
-| [Codrops](https://tympanus.net/codrops/demos)                       | One of the best open-source components. Most are written in `HTML, CSS, JS`.                    |
-| [Aceternity UI](https://ui.aceternity.com/)                         | Top-notch additions for ready-made web pages. Technologies: `Tailwind, Framer Motion, React`.    |
-| [Edil Ozi](https://www.edil-ozi.pro/)                               | Open-source library with ready-made components for `React` applications. Stack: `Tailwind, Framer Motion, GSAP`. |
+| Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                             |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------|
+| [Built At Light](https://www.builtatlightspeed.com/)                | A marketplace with links to free websites, components, and UI kits with convenient filtering (includes both paid and free templates).   |
+| [Codrops](https://tympanus.net/codrops/demos)                       | One of the best open-source components. Most are written in `HTML, CSS, JS`.                                                            |
+| [Aceternity UI](https://ui.aceternity.com/)                         | Top-notch additions for ready-made web pages. Technologies: `Tailwind, Framer Motion, React`.                                           |
+| [Edil Ozi](https://www.edil-ozi.pro/)                               | Open-source library with ready-made components for `React` applications. Stack: `Tailwind, Framer Motion, GSAP`.                        |
 | [Shad CN](https://ui.shadcn.com/)                                   | Open-source component library for creating your own library. All components can be customized to your design. Stack: `Tailwind, React`. |
-| [Motion Primitives](https://motion-primitives.com/)                 | Some of the best animated components using `Framer Motion, Tailwind`.                           |
-| [UI Verse](https://uiverse.io/)                                     | A large number of ready-made UI components, updated daily. Stack: `HTML, CSS/Tailwind`.          |
-| [Olivier Larose](blog.olivierlarose.com/tutorials)                  | A motion design specialist who teaches and shares high-quality content. Stack: `GSAP, Framer Motion, React`. |
+| [Motion Primitives](https://motion-primitives.com/)                 | Some of the best animated components using `Framer Motion, Tailwind`.                                                                   |
+| [UI Verse](https://uiverse.io/)                                     | A large number of ready-made UI components, updated daily. Stack: `HTML, CSS/Tailwind`.                                                 |
+| [Olivier Larose](blog.olivierlarose.com/tutorials)                  | A motion design specialist who teaches and shares high-quality content. Stack: `GSAP, Framer Motion, React`.                            |
+| [21st dev](http://21st.dev)                                         | High-quality visuals in an open-source library for React developers.                                                                    |
+
 
 
 ## Stock Images
