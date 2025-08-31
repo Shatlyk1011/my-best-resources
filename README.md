@@ -67,5 +67,6 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Wappalyzer](http://wappalyzer.com/)                                | A site to view technologies used on other websites (Web Scraping).                              |
 | [Jitter Video](https://jitter.video/)                               | Ready-made video templates that can be customized and integrated into web applications.         |
 | [Squoosh](https://squoosh.app/)                                     | An image compression service from Google Chrome Labs.                                           |
+| [CSS to Tailwind](https://transform.tools/css-to-tailwind)          | Convert your CSS code into Tailwind in seconds.                                                 |
 
 This resource will be updated in the future with the best tools, so drop a ⭐️ to keep track!
