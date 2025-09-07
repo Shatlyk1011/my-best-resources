@@ -38,6 +38,8 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [UI Verse](https://uiverse.io/)                                     | A large number of ready-made UI components, updated daily. Stack: `HTML, CSS/Tailwind`.                                                 |
 | [Olivier Larose](blog.olivierlarose.com/tutorials)                  | A motion design specialist who teaches and shares high-quality content. Stack: `GSAP, Framer Motion, React`.                            |
 | [21st dev](http://21st.dev)                                         | High-quality visuals in an open-source library for React developers.                                                                    |
+| [React Bitz](reactbits.dev)                                         | Collection of animated, interactive & customizable React components. Stack: `Gsap, Framer Motion, React, Tailwind/CSS`                  |
+
 
 
 
