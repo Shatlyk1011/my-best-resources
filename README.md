@@ -22,6 +22,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Stack Sorted](https://stacksorted.com/)                            | A collection of the best web designs, sorted by elements.                                         |
 | [Awwwards](https://www.awwwards.com/)                               | A place where the best websites in the world are evaluated and collected.                         |
 | [SaaSpo](https://saaspo.com/)                                       | Page or section SaaS web design inspirations.                                                     |
+| [Bento Grid](https://bentogrids.com/)                               | Curated collection of bento designs for your inspiration.                                         |
 
 ## Catalog of Ready-Made Components
 
