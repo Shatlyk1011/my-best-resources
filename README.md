@@ -26,6 +26,8 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Growth Design](https://growth.design/case-studies)                 | Product Psychology Case Studies from Big Tech, Showcased with Comics.                             |
 | [MDX](https://mdx.so/projects)                                      | 3D Web Design Inspiration Catalogue                                                               |
 | [Codrops](https://tympanus.net/codrops/webzibition/)                | Freshly hand-picked websites for your inspiration.                                                |
+| [Inspo.page](https://www.inspo.page/)                                  | The website inspiration library curated at the component level                                    |
+
 
 
 ## Catalog of Ready-Made Components
@@ -44,8 +46,6 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Olivier Larose](blog.olivierlarose.com/tutorials)                  | A motion design specialist who teaches and shares high-quality content. Stack: `GSAP, Framer Motion, React`.                            |
 | [21st dev](http://21st.dev)                                         | High-quality visuals in an open-source library for React developers.                                                                    |
 | [React Bitz](https://reactbits.dev)                                 | Collection of animated, interactive & customizable React components. Stack: `Gsap, Framer Motion, React, Tailwind/CSS`                  |
-
-
 
 
 ## Stock Images
