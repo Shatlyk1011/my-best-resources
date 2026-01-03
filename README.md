@@ -66,6 +66,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Grok AI](https://grok.com/)                                        | An alternative to ChatGPT, better for coding (in my opinion).           |
 | [Leonardo AI](https://app.leonardo.ai/)                             | Image generator with a free tier (refreshes daily).                     |
 | [Easy With AI](https://easywithai.com/)                             | A collection of AI tools for various use cases.                         |
+| [Magic Patterns](https://www.magicpatterns.com)                     | Amazing AI tool for creating ready to use components (5 credits per/m)  | 
 
 ## Other Useful Sources
 
