@@ -15,6 +15,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                       |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [Emerald UI](https://www.emerald-ui.com/?ref=my-best-resources.md)  | Curated website collections to explore.                                                           |
 | [Minimal Gallery](https://minimal.gallery/)                         | Websites with minimalist design and convenient filtering.                                         |
 | [Cosmos](https://www.cosmos.so/discover/ui-ux)                      | Tons of useful stuff. Unique images, interesting UI/UX, and much more.                            |
 | [Unsection](https://www.unsection.com/)                             | Over 1000 web pages categorized by sections with convenient filtering.                            |
@@ -26,7 +27,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Growth Design](https://growth.design/case-studies)                 | Product Psychology Case Studies from Big Tech, Showcased with Comics.                             |
 | [MDX](https://mdx.so/projects)                                      | 3D Web Design Inspiration Catalogue                                                               |
 | [Codrops](https://tympanus.net/codrops/webzibition/)                | Freshly hand-picked websites for your inspiration.                                                |
-| [Inspo.page](https://www.inspo.page/)                                  | The website inspiration library curated at the component level                                    |
+| [Inspo.page](https://www.inspo.page/)                               | The website inspiration library curated at the component level                                    |
 
 
 
@@ -36,16 +37,17 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                             |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------|
+| [Emerald UI](https://www.emerald-ui.com/docs)                       | Modern UI components to install - built with GSAP and Framer.                                                                           |
 | [Built At Light](https://www.builtatlightspeed.com/)                | A marketplace with links to free websites, components, and UI kits with convenient filtering (includes both paid and free templates).   |
 | [Codrops](https://tympanus.net/codrops/demos)                       | One of the best open-source components. Most are written in `HTML, CSS, JS`.                                                            |
-| [Aceternity UI](https://ui.aceternity.com/)                         | Top-notch additions for ready-made web pages. Technologies: `Tailwind, Framer Motion, React`.                                           |
-| [Edil Ozi](https://www.edil-ozi.pro/)                               | Open-source library with ready-made components for `React` applications. Stack: `Tailwind, Framer Motion, GSAP`.                        |
+| [Aceternity UI](https://ui.aceternity.com/)                         | Top-notch additions for ready-made web pages. Technologies: `Tailwind, Motion, React`.                                                  |
+| [Edil Ozi](https://www.edil-ozi.pro/)                               | Open-source library with ready-made components for `React` applications. Stack: `Tailwind, Motion, GSAP`.                               |
 | [Shad CN](https://ui.shadcn.com/)                                   | Open-source component library for creating your own library. All components can be customized to your design. Stack: `Tailwind, React`. |
-| [Motion Primitives](https://motion-primitives.com/)                 | Some of the best animated components using `Framer Motion, Tailwind`.                                                                   |
+| [Motion Primitives](https://motion-primitives.com/)                 | Some of the best animated components using `Motion, Tailwind`.                                                                          |
 | [UI Verse](https://uiverse.io/)                                     | A large number of ready-made UI components, updated daily. Stack: `HTML, CSS/Tailwind`.                                                 |
-| [Olivier Larose](blog.olivierlarose.com/tutorials)                  | A motion design specialist who teaches and shares high-quality content. Stack: `GSAP, Framer Motion, React`.                            |
+| [Olivier Larose](blog.olivierlarose.com/tutorials)                  | A motion design specialist who teaches and shares high-quality content. Stack: `GSAP, Motion, React`.                                   |
 | [21st dev](http://21st.dev)                                         | High-quality visuals in an open-source library for React developers.                                                                    |
-| [React Bitz](https://reactbits.dev)                                 | Collection of animated, interactive & customizable React components. Stack: `Gsap, Framer Motion, React, Tailwind/CSS`                  |
+| [React Bitz](https://reactbits.dev)                                 | Collection of animated, interactive & customizable React components. Stack: `Gsap, Motion, React, Tailwind`                             |
 
 
 ## Stock Images
