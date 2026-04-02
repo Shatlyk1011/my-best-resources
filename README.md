@@ -1,4 +1,5 @@
 # The Best Resources for Web Developers and Designers (Opinionated)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 A list of awesome resources to make a developer's life easier.
 
