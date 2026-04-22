@@ -15,7 +15,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                       |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [Emerald UI](https://www.emerald-ui.com/?ref=my-best-resources.md)  | Curated website collections to explore.                                                           |
+| [Emerald UI](https://github.com/shatlyk1011/emerald-ui)  | Curated website collections to explore.                                                           |
 | [Minimal Gallery](https://minimal.gallery/)                         | Websites with minimalist design and convenient filtering.                                         |
 | [Cosmos](https://www.cosmos.so/discover/ui-ux)                      | Tons of useful stuff. Unique images, interesting UI/UX, and much more.                            |
 | [Unsection](https://www.unsection.com/)                             | Over 1000 web pages categorized by sections with convenient filtering.                            |
@@ -37,7 +37,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                             |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------|
-| [Emerald UI](https://www.emerald-ui.com/docs)                       | Modern UI components to install - built with GSAP and Framer.                                                                           |
+| [Emerald UI](https://github.com/shatlyk1011/emerald-ui)                       | Modern UI components to install - built with GSAP and Framer.                                                                           |
 | [Built At Light](https://www.builtatlightspeed.com/)                | A marketplace with links to free websites, components, and UI kits with convenient filtering (includes both paid and free templates).   |
 | [Codrops](https://tympanus.net/codrops/demos)                       | One of the best open-source components. Most are written in `HTML, CSS, JS`.                                                            |
 | [Aceternity UI](https://ui.aceternity.com/)                         | Top-notch additions for ready-made web pages. Technologies: `Tailwind, Motion, React`.                                                  |
