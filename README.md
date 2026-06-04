@@ -15,7 +15,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                       |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [Emerald UI](https://github.com/shatlyk1011/emerald-ui)  | Curated website collections to explore.                                                           |
+| [Emerald UI](http://emerald-ui.com/website-collections)             | Curated website collections to explore.                                                           |
 | [Minimal Gallery](https://minimal.gallery/)                         | Websites with minimalist design and convenient filtering.                                         |
 | [Cosmos](https://www.cosmos.so/discover/ui-ux)                      | Tons of useful stuff. Unique images, interesting UI/UX, and much more.                            |
 | [Unsection](https://www.unsection.com/)                             | Over 1000 web pages categorized by sections with convenient filtering.                            |
@@ -28,6 +28,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [MDX](https://mdx.so/projects)                                      | 3D Web Design Inspiration Catalogue                                                               |
 | [Codrops](https://tympanus.net/codrops/webzibition/)                | Freshly hand-picked websites for your inspiration.                                                |
 | [Inspo.page](https://www.inspo.page/)                               | The website inspiration library curated at the component level                                    |
+| [Laws of UX](https://lawsofux.com)                                  | Collection of best practices that designers can consider when building user interfaces (UX)       |
 
 
 
@@ -37,7 +38,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                             |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------|
-| [Emerald UI](https://github.com/shatlyk1011/emerald-ui)                       | Modern UI components to install - built with GSAP and Framer.                                                                           |
+| [Emerald UI](https://www.emerald-ui.com/docs)                       | Modern UI components to install - built with GSAP and Framer.                                                                           |
 | [Built At Light](https://www.builtatlightspeed.com/)                | A marketplace with links to free websites, components, and UI kits with convenient filtering (includes both paid and free templates).   |
 | [Codrops](https://tympanus.net/codrops/demos)                       | One of the best open-source components. Most are written in `HTML, CSS, JS`.                                                            |
 | [Aceternity UI](https://ui.aceternity.com/)                         | Top-notch additions for ready-made web pages. Technologies: `Tailwind, Motion, React`.                                                  |
@@ -69,7 +70,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Leonardo AI](https://app.leonardo.ai/)                             | Image generator with a free tier (refreshes daily).                     |
 | [Easy With AI](https://easywithai.com/)                             | A collection of AI tools for various use cases.                         |
 | [Magic Patterns](https://www.magicpatterns.com)                     | Amazing AI tool for creating ready to use components (5 credits per/m)  |
-| [Antigravity IDE](https://antigravity.google/)                      | Personal favorite AI IDE                                                   | 
+| [Antigravity IDE](https://antigravity.google/)                      | Personal favorite AI IDE                                                | 
 
 ## Other Useful Sources
 
