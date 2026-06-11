@@ -46,7 +46,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Shad CN](https://ui.shadcn.com/)                                   | Open-source component library for creating your own library. All components can be customized to your design. Stack: `Tailwind, React`. |
 | [Motion Primitives](https://motion-primitives.com/)                 | Some of the best animated components using `Motion, Tailwind`.                                                                          |
 | [UI Verse](https://uiverse.io/)                                     | A large number of ready-made UI components, updated daily. Stack: `HTML, CSS/Tailwind`.                                                 |
-| [Olivier Larose](blog.olivierlarose.com/tutorials)                  | A motion design specialist who teaches and shares high-quality content. Stack: `GSAP, Motion, React`.                                   |
+| [Olivier Larose](https://blog.olivierlarose.com/tutorials)          | A motion design specialist who teaches and shares high-quality content. Stack: `GSAP, Motion, React`.                                   |
 | [21st dev](http://21st.dev)                                         | High-quality visuals in an open-source library for React developers.                                                                    |
 | [React Bitz](https://reactbits.dev)                                 | Collection of animated, interactive & customizable React components. Stack: `Gsap, Motion, React, Tailwind`                             |
 
