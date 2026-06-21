@@ -15,9 +15,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                       |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [Emerald UI](http://emerald-ui.com/website-collections)             | Curated website collections to explore.                                                           |
 | [Minimal Gallery](https://minimal.gallery/)                         | Websites with minimalist design and convenient filtering.                                         |
-| [Cosmos](https://www.cosmos.so/discover/ui-ux)                      | Tons of useful stuff. Unique images, interesting UI/UX, and much more.                            |
 | [Unsection](https://www.unsection.com/)                             | Over 1000 web pages categorized by sections with convenient filtering.                            |
 | [Supahero](https://www.supahero.io/)                                | Supahero offers the best `Hero` sections for web pages.                                           |
 | [Stack Sorted](https://stacksorted.com/)                            | A collection of the best web designs, sorted by elements.                                         |
