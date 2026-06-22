@@ -49,13 +49,16 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [React Bitz](https://reactbits.dev)                                 | Collection of animated, interactive & customizable React components. Stack: `Gsap, Motion, React, Tailwind`                             |
 
 
-## Stock Images
+## Stock Images & Icons
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                             |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [Lummi AI](https://www.lummi.ai/)                                   | AI-generated images and illustrations.                                  |
 | [Unsplash](https://unsplash.com/)                                   | Professional photos.                                                    |
 | [Pexels](https://www.pexels.com/)                                   | Free stock photos shared by professionals.                              |
+| [theSVG](https://thesvg.org/)                                       | Colored Icons of popular brands                                         |
+
+
 
 ### **Don’t forget to compress images using [Squoosh](https://squoosh.app/) or similar services to optimize image size.**
 
