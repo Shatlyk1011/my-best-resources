@@ -68,6 +68,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Leonardo AI](https://app.leonardo.ai/)                             | Image generator with a free tier (refreshes daily).                     |
 | [Easy With AI](https://easywithai.com/)                             | A collection of AI tools for various use cases.                         |
 | [Magic Patterns](https://www.magicpatterns.com)                     | Amazing AI tool for creating ready to use components (5 credits per/m)  |
+| [igly.ai](https://igly.ai)                                          | AI image editor for background removal, inpainting, upscaling, and generative fill ([demo](https://www.youtube.com/watch?v=HB2E1WZ12is)). |
 | [Antigravity IDE](https://antigravity.google/)                      | Personal favorite AI IDE                                                | 
 
 ## Other Useful Sources
