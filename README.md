@@ -7,7 +7,8 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 
 - [Design Inspiration](#design-inspiration)
 - [Catalog of Ready-Made Components](#catalog-of-ready-made-components)
-- [Stock Images](#stock-images)
+- [Stock Images & Icons](#stock-images--icons)
+- [Video Editing](#video-editing)
 - [Artificial Intelligence for Various Use Cases](#artificial-intelligence-for-various-use-cases)
 - [Other Useful Sources (100% Helpful)](#other-useful-sources)
 
@@ -36,7 +37,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                             |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------|
-| [Emerald UI](https://www.emerald-ui.com/docs)                       | Modern UI components to install - built with GSAP and Framer.                                                                           |
+| [Emerald UI](https://www.emerald-ui.com/docs)                       | Modern UI components to install - built with GSAP and Framer (self-promo).                                                              |
 | [Built At Light](https://www.builtatlightspeed.com/)                | A marketplace with links to free websites, components, and UI kits with convenient filtering (includes both paid and free templates).   |
 | [Codrops](https://tympanus.net/codrops/demos)                       | One of the best open-source components. Most are written in `HTML, CSS, JS`.                                                            |
 | [Aceternity UI](https://ui.aceternity.com/)                         | Top-notch additions for ready-made web pages. Technologies: `Tailwind, Motion, React`.                                                  |
@@ -59,15 +60,21 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [theSVG](https://thesvg.org/)                                       | Colored Icons of popular brands                                         |
 
 
-
 ### **Don’t forget to compress images using [Squoosh](https://squoosh.app/) or similar services to optimize image size.**
+
+## Video Editing
+
+| Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                     |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [Animos App](https://animos.app)                                    | Export Animated video fragments with ready to use templates.                                    |
+| [Jitter Video](https://jitter.video/)                               | Ready-made video templates that can be customized and integrated into web applications.         |
+
 
 ## Artificial Intelligence for Various Use Cases
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                             |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [Ideogram](https://ideogram.ai/)                                    | Image generator with a free tier.                                       |
-| [Grok AI](https://grok.com/)                                        | An alternative to ChatGPT, better for coding (in my opinion).           |
 | [Leonardo AI](https://app.leonardo.ai/)                             | Image generator with a free tier (refreshes daily).                     |
 | [Easy With AI](https://easywithai.com/)                             | A collection of AI tools for various use cases.                         |
 | [Magic Patterns](https://www.magicpatterns.com)                     | Amazing AI tool for creating ready to use components (5 credits per/m)  |
@@ -78,7 +85,6 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                     |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Wappalyzer](http://wappalyzer.com/)                                | A site to view technologies used on other websites (Web Scraping).                              |
-| [Jitter Video](https://jitter.video/)                               | Ready-made video templates that can be customized and integrated into web applications.         |
 | [Squoosh](https://squoosh.app/)                                     | An image compression service from Google Chrome Labs.                                           |
 | [CSS to Tailwind](https://transform.tools/css-to-tailwind)          | Convert your CSS code into Tailwind in seconds.                                                 |
 | [Relume](https://www.relume.io)                                     | Wireframe & layout structure generator. Boosts your design in start!                            |
