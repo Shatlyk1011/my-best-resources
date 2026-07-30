@@ -48,6 +48,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Olivier Larose](https://blog.olivierlarose.com/tutorials)          | A motion design specialist who teaches and shares high-quality content. Stack: `GSAP, Motion, React`.                                   |
 | [21st dev](http://21st.dev)                                         | High-quality visuals in an open-source library for React developers.                                                                    |
 | [React Bitz](https://reactbits.dev)                                 | Collection of animated, interactive & customizable React components. Stack: `Gsap, Motion, React, Tailwind`                             |
+| [Hyperiux Vault](https://vault.hyperiux.com/)                       | Animation effects and interactive components for Next.js, installed via a CLI that copies source directly into your project. Stack: `Tailwind, Motion, GSAP, React`. |
 
 
 ## Stock Images & Icons
