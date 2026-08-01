@@ -29,8 +29,6 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Inspo.page](https://www.inspo.page/)                               | The website inspiration library curated at the component level                                    |
 | [Laws of UX](https://lawsofux.com)                                  | Collection of best practices that designers can consider when building user interfaces (UX)       |
 
-
-
 ## Catalog of Ready-Made Components
 
 > Components with open-source code.
@@ -78,7 +76,8 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Leonardo AI](https://app.leonardo.ai/)                             | Image generator with a free tier (refreshes daily).                     |
 | [Easy With AI](https://easywithai.com/)                             | A collection of AI tools for various use cases.                         |
 | [Magic Patterns](https://www.magicpatterns.com)                     | Amazing AI tool for creating ready to use components (5 credits per/m)  |
-| [Antigravity IDE](https://antigravity.google/)                      | Personal favorite AI IDE                                                | 
+| [Antigravity IDE](https://antigravity.google/)                      | Personal favorite AI IDE                                                |
+| [Cloudflare Models](https://developers.cloudflare.com/ai/models/)   | Add AI to your app in minutes, without the cost or complexity (PAYGO)   |
 
 ## Other Useful Sources
 
@@ -86,7 +85,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Wappalyzer](http://wappalyzer.com/)                                | A site to view technologies used on other websites (Web Scraping).                              |
 | [Squoosh](https://squoosh.app/)                                     | An image compression service from Google Chrome Labs.                                           |
-| [CSS to Tailwind](https://transform.tools/css-to-tailwind)          | Convert your CSS code into Tailwind in seconds.                                                 |
+| [CSS to Tailwind](https://transform.tools/css-to-tailwind)          | Convert your CSS code into Tailwind in seconds (works both side)                                |
 | [Relume](https://www.relume.io)                                     | Wireframe & layout structure generator. Boosts your design in start!                            |
 
 
