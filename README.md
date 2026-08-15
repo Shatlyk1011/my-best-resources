@@ -85,6 +85,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Wappalyzer](http://wappalyzer.com/)                                | A site to view technologies used on other websites (Web Scraping).                              |
 | [Squoosh](https://squoosh.app/)                                     | An image compression service from Google Chrome Labs.                                           |
+| [DeerImage](https://deerimage.com/)                                 | Free browser-based image tools for compression, conversion, resizing, and more (no sign-up).    |
 | [CSS to Tailwind](https://transform.tools/css-to-tailwind)          | Convert your CSS code into Tailwind in seconds (works both side)                                |
 | [Relume](https://www.relume.io)                                     | Wireframe & layout structure generator. Boosts your design in start!                            |
 
