@@ -1,5 +1,6 @@
 # The Best Resources for Web Developers and Designers (Opinionated)
 
+
 A list of awesome resources to make a developer's life easier.
 
 Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the resources listed here in action.
@@ -89,6 +90,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Squoosh](https://squoosh.app/)                                     | An image compression service from Google Chrome Labs.                                           |
 | [CSS to Tailwind](https://transform.tools/css-to-tailwind)          | Convert your CSS code into Tailwind in seconds (works both side)                                |
 | [Relume](https://www.relume.io)                                     | Wireframe & layout structure generator. Boosts your design in start!                            |
+| [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) | Free, vendor-neutral contract for AI-assisted UI work covering tokens, states, responsive behavior, accessibility, motion, and production review. |
 
 
 This resource will be updated in the future with the best tools, so drop a ⭐️ to keep track!
