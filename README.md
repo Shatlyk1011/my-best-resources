@@ -6,6 +6,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 ### List of Resources
 
 - [Design Inspiration](#design-inspiration)
+- [Skills (New)](#skills)
 - [Catalog of Ready-Made Components](#catalog-of-ready-made-components)
 - [Stock Images & Icons](#stock-images--icons)
 - [Video Editing](#video-editing)
@@ -28,6 +29,13 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Codrops](https://tympanus.net/codrops/webzibition/)                | Freshly hand-picked websites for your inspiration.                                                |
 | [Inspo.page](https://www.inspo.page/)                               | The website inspiration library curated at the component level                                    |
 | [Laws of UX](https://lawsofux.com)                                  | Collection of best practices that designers can consider when building user interfaces (UX)       |
+
+## Skills
+
+| Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      | Description                                                                                              |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| [Procedural Film](https://github.com/kuhnhomeuk-cell/procedural-film)    | Open Source Skill that turns a topic into a short film or a small game                                   |
+| [Anatomy](https://github.com/wheresryan22/anatomy)                       | Claude skill for interactive isometric SVG, WebGL, and 3D visuals, compatible with major AI coding tools |
 
 ## Catalog of Ready-Made Components
 
@@ -75,9 +83,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                             |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [Ideogram](https://ideogram.ai/)                                    | Image generator with a free tier.                                       |
-| [Leonardo AI](https://app.leonardo.ai/)                             | Image generator with a free tier (refreshes daily).                     |
-| [Easy With AI](https://easywithai.com/)                             | A collection of AI tools for various use cases.                         |
-| [Magic Patterns](https://www.magicpatterns.com)                     | Amazing AI tool for creating ready to use components (5 credits per/m)  |
+| [Magic Patterns](https://www.magicpatterns.com)                     | Amazing AI tool for creating ready to use components (250 credits per/m)|
 | [Antigravity IDE](https://antigravity.google/)                      | Personal favorite AI IDE                                                |
 | [Cloudflare Models](https://developers.cloudflare.com/ai/models/)   | Add AI to your app in minutes, without the cost or complexity (PAYGO)   |
 
@@ -88,7 +94,6 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Wappalyzer](http://wappalyzer.com/)                                | A site to view technologies used on other websites (Web Scraping).                              |
 | [Squoosh](https://squoosh.app/)                                     | An image compression service from Google Chrome Labs.                                           |
 | [CSS to Tailwind](https://transform.tools/css-to-tailwind)          | Convert your CSS code into Tailwind in seconds (works both side)                                |
-| [Relume](https://www.relume.io)                                     | Wireframe & layout structure generator. Boosts your design in start!                            |
 
 
 This resource will be updated in the future with the best tools, so drop a ⭐️ to keep track!
