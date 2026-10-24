@@ -36,6 +36,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | [Procedural Film](https://github.com/kuhnhomeuk-cell/procedural-film)    | Open Source Skill that turns a topic into a short film or a small game                                   |
 | [Anatomy](https://github.com/wheresryan22/anatomy)                       | Claude skill for interactive isometric SVG, WebGL, and 3D visuals, compatible with major AI coding tools |
+| [Stickman Video](https://github.com/kaomei/stickman-video-director)      | AI stickman animation style skills & video prompts. Requires Video generation API                        |
 
 ## Catalog of Ready-Made Components
 
