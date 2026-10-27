@@ -30,6 +30,8 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Inspo.page](https://www.inspo.page/)                               | The website inspiration library curated at the component level                                    |
 | [Laws of UX](https://lawsofux.com)                                  | Collection of best practices that designers can consider when building user interfaces (UX)       |
 
+| [Design Details](https://designdetails.io/) | Free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns. |
+
 ## Skills
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      | Description                                                                                              |
