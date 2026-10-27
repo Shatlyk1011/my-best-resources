@@ -92,6 +92,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 
 | Source Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                     |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [ImgFlow](https://imgflow.taoliapp.com/en/)                                      | Free browser image compressor/converter (PNG/JPG/HEIC/WebP/AVIF; on-device).                   |
 | [Wappalyzer](http://wappalyzer.com/)                                | A site to view technologies used on other websites (Web Scraping).                              |
 | [Squoosh](https://squoosh.app/)                                     | An image compression service from Google Chrome Labs.                                           |
 | [CSS to Tailwind](https://transform.tools/css-to-tailwind)          | Convert your CSS code into Tailwind in seconds (works both side)                                |
