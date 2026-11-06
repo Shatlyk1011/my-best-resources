@@ -88,6 +88,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Magic Patterns](https://www.magicpatterns.com)                     | Amazing AI tool for creating ready to use components (250 credits per/m)|
 | [Antigravity IDE](https://antigravity.google/)                      | Personal favorite AI IDE                                                |
 | [Cloudflare Models](https://developers.cloudflare.com/ai/models/)   | Add AI to your app in minutes, without the cost or complexity (PAYGO)   |
+| [agent-qa](https://github.com/vostride/agent-qa) | Natural-language testing for web, Android and iOS, with advanced memidex memory and self-improvement. |
 
 ## Other Useful Sources
 
