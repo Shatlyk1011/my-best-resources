@@ -88,6 +88,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Magic Patterns](https://www.magicpatterns.com)                     | Amazing AI tool for creating ready to use components (250 credits per/m)|
 | [Antigravity IDE](https://antigravity.google/)                      | Personal favorite AI IDE                                                |
 | [Cloudflare Models](https://developers.cloudflare.com/ai/models/)   | Add AI to your app in minutes, without the cost or complexity (PAYGO)   |
+| [Prompt Generator](https://trypromptgenerator.com/)                 | Prompt writer for ChatGPT, Claude, Midjourney, Veo: 10 free a day       |
 
 ## Other Useful Sources
 
